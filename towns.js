@@ -3,7 +3,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-		$('#btnAdd').click(addTown);
+	$('#btnAdd').click(addTown);
 });
 
 function addTown() {
